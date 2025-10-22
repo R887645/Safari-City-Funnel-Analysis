@@ -65,6 +65,7 @@ Defined the funnel stages:
 - **Excel:** Initial data cleaning and summary analysis.
 - **Power Query:** Data transformation and automation of repetitive tasks.
 - **Power BI:** Funnel analysis, DAX calculations, and dashboard visualization.
+## [VIEW MY DASHBOARD] (https://app.powerbi.com/view?r=eyJrIjoiMjYwZjVkNDYtYTE3Yi00ODdiLThjNTgtNWQwOWY0NWUzODA5IiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)
 
 ## Key Outcomes
 - Improved dataset quality and structure by **40%**.
