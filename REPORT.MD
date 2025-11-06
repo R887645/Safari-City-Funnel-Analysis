@@ -1,6 +1,6 @@
 # Introduction
 Safari City, a **mobile gaming app**, wanted to understand user engagement in the early funnel — from opening the app to starting a session. 
-The goal was to identify where users drop off, analyze player behavior, and recommend data-driven strategies to improve engagement and retention.
+The goal was to identify where users drop off, analyze player behavior, and recommend data-driven strategies to improve engagement and retention. This project was conducted as part of my assessment for the Data Analyst role at Maliyo Games.
 
 Through data cleaning, funnel modeling, and Power BI visualization, I identified a **73.3%** drop-off rate and developed insights projected to boost conversion by **50%** and increase active sessions by over **20,000** users in the next release cycle.
 
